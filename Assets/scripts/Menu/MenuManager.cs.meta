@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d68c95e14c97e94381ef917a2511b23
+timeCreated: 1508145456
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - networkManager: {fileID: 11443574, guid: 733d5207d553aa043b1f8d6c58cbae07, type: 2}
+  - soundEffectsHelper: {fileID: 11405186, guid: d6a3bb6a0beac40489e329b063e94cff,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

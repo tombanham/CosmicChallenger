@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29c010dc0639fe545b659a36198c7931
+timeCreated: 1508144284
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {fileID: 19882406, guid: 871686c3797a3e14fbffe51bc56670bc, type: 2}
+  - cluserLaser: {fileID: 183300, guid: 0f0fceade0377cb4a8ecc932dc8825d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

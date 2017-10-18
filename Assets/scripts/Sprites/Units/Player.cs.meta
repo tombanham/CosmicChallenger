@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f667817abb4b13142acf9d6b5ec8b627
+timeCreated: 1508144168
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shipDefault: {instanceID: 0}
+  - shipPlayer: {instanceID: 0}
+  - trail: {fileID: 19807300, guid: aab8e96a04920424f8615fbf56555759, type: 2}
+  - laserPrefab: {fileID: 170048, guid: 6f11ef4ece2dde34ab89970d5c397d64, type: 2}
+  - rocketPrefab: {fileID: 163988, guid: fcff8ecc595653547aa7d562ad4e026a, type: 2}
+  - bombPrefab: {fileID: 198294, guid: f1a1a5ee7e55e8c45bc6a73d5cf632fa, type: 2}
+  - clusterBombPrefab: {fileID: 142456, guid: f1ca1ddb38094a9499285847f51d8dc7, type: 2}
+  - seekerPrefab: {fileID: 155458, guid: 49bc31d2812eaf243947c85ada8820e9, type: 2}
+  - rocketPrefabLeft: {fileID: 105372, guid: 8744db875d576384fab1f740b6b35a82, type: 2}
+  - bombPrefabLeft: {fileID: 196246, guid: bbf33dfb7251029409f1adb570fad786, type: 2}
+  - clusterBombPrefabLeft: {fileID: 154670, guid: 9694a3fda842f124396c016d23cd59bc,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

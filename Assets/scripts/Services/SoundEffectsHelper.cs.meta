@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0a56e62767721a84ca4f27e6fc332a6f
+timeCreated: 1508145087
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - laserSound: {fileID: 8300000, guid: 29d1be3ca42155a4ea79dc3410791666, type: 3}
+  - bombSound: {fileID: 8300000, guid: ff41157cc5fb0ac46b176c0e9993232a, type: 3}
+  - rocketSound: {fileID: 8300000, guid: fbbb8211e9305d9498febd239860d053, type: 3}
+  - clusterBombSound: {fileID: 8300000, guid: 115ab3a362e1d144ab26d921f48f79a6, type: 3}
+  - seekerLaserSound: {fileID: 8300000, guid: 6aad0213401994d459bb90d6475a8e6b, type: 3}
+  - bombExplosionSound: {fileID: 8300000, guid: 0c125e931c49fbb4ca60e79945cac847,
+      type: 3}
+  - rocketExplosionSound: {fileID: 8300000, guid: 573fbc03abf4fa347ae77322dc1d3902,
+      type: 3}
+  - pickupSound: {fileID: 8300000, guid: 3fdc3a3f72c0f6f40ba6d474020841aa, type: 3}
+  - pickupExplosionSound: {fileID: 8300000, guid: 12fc583d311b8d841a1a242f4b40e869,
+      type: 3}
+  - shipExplosionSound: {fileID: 8300000, guid: c118c5db4dada3846b5ba635b65a234c,
+      type: 3}
+  - layoutChangeSound: {fileID: 8300000, guid: 8657c9a47e197184bb7c4f7b89666a49, type: 3}
+  - clickSound: {fileID: 8300000, guid: 2cca8196b7dd4e143aa0f354a864968f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

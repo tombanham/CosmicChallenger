@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c7df9946deae0c84887b52c9c907da06
+timeCreated: 1508144676
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthBar: {fileID: 22467360, guid: e9460fabe9c715a4b95b7aa2d1c0dd9e, type: 2}
+  - sparks: {fileID: 19807300, guid: aab8e96a04920424f8615fbf56555759, type: 2}
+  - explosion: {fileID: 19882406, guid: 871686c3797a3e14fbffe51bc56670bc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

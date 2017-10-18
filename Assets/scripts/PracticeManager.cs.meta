@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f7547d56cfc71f34ea014d6ad1373971
+timeCreated: 1508146467
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - topUItext: {instanceID: 0}
+  - localPlayer: {fileID: 11408132, guid: e9460fabe9c715a4b95b7aa2d1c0dd9e, type: 2}
+  - localPlayerImage: {fileID: 190076, guid: 1f6b5674297b4b54c8a628afc9540223, type: 2}
+  - laserImage: {fileID: 21300000, guid: 31b38d1ca33fe124db211923d9ed8235, type: 3}
+  - rocketImage: {fileID: 21300000, guid: b9c1804b8b9ce7f4b98c2402eae28370, type: 3}
+  - bombImage: {fileID: 21300000, guid: edae8f83327fef84f902ae5ed5ded0d2, type: 3}
+  - clusterBombImage: {fileID: 21300000, guid: 5b0160fa26ffd8f4c9813c78847efac2, type: 3}
+  - seekerLaserImage: {fileID: 21300000, guid: 0145b6a8736f3f1478e40914b8821d50, type: 3}
+  - currentWeaponImage: {fileID: 132028, guid: d7c218634dd4d0b4e9be19e88f4ba4e0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
