@@ -26,7 +26,7 @@ namespace Assets.scripts.Help {
                     SceneManager.LoadScene(AppConstants.MenuSceneName);
                     break;
                 default:
-                    throw new UnexpectedScene("Unknown Scene: " + SceneManager.GetActiveScene().name);
+                    throw new UnexpectedScene("Unknown Scene: " + scene);
             }
         }
 
@@ -42,7 +42,7 @@ namespace Assets.scripts.Help {
                     SceneManager.LoadScene(AppConstants.HelpWeaponsSceneName);
                     break;
                 default:
-                    throw new UnexpectedScene("Unknown Scene: " + SceneManager.GetActiveScene().name);
+                    throw new UnexpectedScene("Unknown Scene: " + scene);
             }
         }
     }
