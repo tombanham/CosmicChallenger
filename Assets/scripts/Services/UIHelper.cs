@@ -169,6 +169,7 @@ namespace Assets.scripts.Services
         }
 
         public void EnableFlashingText() {
+            topUItext.fontSize = UIText.FlashingTextFontSize;
             FlashingTextTimer = new Timer();
             FlashingTextTimer.Elapsed += delegate { textOn = !textOn; };
             FlashingTextTimer.Interval = AppConstants.FlashingTextTimerIntervalMilliseconds;
