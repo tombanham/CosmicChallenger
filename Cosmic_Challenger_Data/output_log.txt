@@ -6,48 +6,30 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     2020 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\standalone build\Cosmic_Challenger_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.163 seconds
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Tom\Documents\Unity Projects\Cosmic Challenger\build1_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.010974 ms
+UnloadTime: 3.633344 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 724 -> priority: 1 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.337285 ms
+  Thread -> id: ec -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.315696 ms
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 768.
-Total: 0.400283 ms (FindLiveObjects: 0.047779 ms CreateObjectMapping: 0.052026 ms MarkObjects: 0.287737 ms  DeleteObjects: 0.012741 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.630869 ms
-
-Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 556.
-Total: 0.389312 ms (FindLiveObjects: 0.046009 ms CreateObjectMapping: 0.029375 ms MarkObjects: 0.269687 ms  DeleteObjects: 0.043178 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.378694 ms
-
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 770.
-Total: 0.461511 ms (FindLiveObjects: 0.051672 ms CreateObjectMapping: 0.047425 ms MarkObjects: 0.348965 ms  DeleteObjects: 0.013095 ms)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.486110 ms
-
-Unloading 207 unused Assets to reduce memory usage. Loaded Objects now: 572.
-Total: 0.694037 ms (FindLiveObjects: 0.311449 ms CreateObjectMapping: 0.027251 ms MarkObjects: 0.311803 ms  DeleteObjects: 0.042824 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 634.
+Total: 0.326314 ms (FindLiveObjects: 0.039285 ms CreateObjectMapping: 0.027251 ms MarkObjects: 0.245266 ms  DeleteObjects: 0.013448 ms)
 
