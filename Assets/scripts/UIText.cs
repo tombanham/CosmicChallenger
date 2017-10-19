@@ -3,7 +3,8 @@
     public class UIText
     {
         public const int TitleFontSize = 60;
-        public const int StandardFontSize = 40;
+        public const int GameStatsFontSize = 40;
+        public const int FlashingTextFontSize = 35;
 
         public const string Title = "        Cosmic\n        Challenger";
         public const string Victory = "               VICTORY:\n               PRESS ENTER TO CONTINUE";
